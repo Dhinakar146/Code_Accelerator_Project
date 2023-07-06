@@ -4,3 +4,6 @@ openai==0.27.8
 tiktoken==0.4.0
 faiss-cpu==1.7.4
 gradio==3.35.2
+streamlit==1.24.0
+streamlit-chat==0.1.1
+streamlit-extras==0.2.7
